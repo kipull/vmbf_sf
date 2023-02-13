@@ -2,7 +2,7 @@
 
  VINIX Multi Brute Facebook
 
-git clone https://github.com/SFFAJAR/vmbf_sf
+git clone https://github.com/kipull/vmbf_sf
 
 cd vmbf_sf
 
