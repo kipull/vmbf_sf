@@ -1,7 +1,7 @@
 # VMBF
 
- VINIX Multi Brute Facebook
 Welcome
+VINIX Multi Brute Facebook
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -25,13 +25,6 @@ git pull
 
 ** DON'T FORGET TO GIVE STARS **
 </details>
-git clone 
-
-cd vmbf_sf
-
-git pull
-
-python run.py
 
 # RESULTS
 
