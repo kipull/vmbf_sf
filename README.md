@@ -1,4 +1,4 @@
-# VINIX Multi Brute Facebook
+# Vinix Multi Brute Facebook
 
 Welcome
 --------|
